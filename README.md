@@ -19,14 +19,6 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 ![HTML](https://img.shields.io/badge/-HTML-informational?logo=html5&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Pug](https://img.shields.io/badge/Code-Pug-informational?logo=Pug&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
-![Linux](https://img.shields.io/badge/-Linux-informational?logo=linux&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-![OSX](https://img.shields.io/badge/-Mac-informational?logo=apple&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-![Windows](https://img.shields.io/badge/-Windows-informational?logo=windows&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-
-![Code](https://img.shields.io/badge/-Visual_Studio_Code-informational?logo=visual-studio-code&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-![WebStorm](https://img.shields.io/badge/-WebStorm-informational?logo=WebStorm&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-![PyCharm](https://img.shields.io/badge/-PyCharm-informational?logo=PyCharm&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?logo=node.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-informational?logo=angularjs&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Angular](https://img.shields.io/badge/-Angular-informational?logo=angular&style=flat&labelColor=d63e75&logoColor=white&color=134584)
@@ -38,9 +30,18 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 ![D3.js](https://img.shields.io/badge/-D3.js-informational?logo=D3.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?logo=Bootstrap&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
+![Code](https://img.shields.io/badge/-Visual_Studio_Code-informational?logo=visual-studio-code&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+![WebStorm](https://img.shields.io/badge/-WebStorm-informational?logo=WebStorm&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+![PyCharm](https://img.shields.io/badge/-PyCharm-informational?logo=PyCharm&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+
+![Linux](https://img.shields.io/badge/-Linux-informational?logo=linux&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+![OSX](https://img.shields.io/badge/-Mac-informational?logo=apple&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+![Windows](https://img.shields.io/badge/-Windows-informational?logo=windows&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?logo=MySQL&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?logo=MongoDB&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
+### Design Applications
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-informational?logo=Adobe-Photoshop&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-informational?logo=Adobe-Illustrator&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Adobe Indesign](https://img.shields.io/badge/-Adobe_Indesign-informational?logo=Adobe-Indesign&style=flat&labelColor=d63e75&logoColor=white&color=134584)
