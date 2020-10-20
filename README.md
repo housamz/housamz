@@ -51,11 +51,11 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 
 <table>
   <tr>
-    <th width="500">
+    <th>
       <h3>Most Visited Blog Posts</h3>
     </th>
     <th></th>
-    <th width="500">
+    <th>
       <h3>Codepen Pens</h3>
     </th>
   </tr>
