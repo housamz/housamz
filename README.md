@@ -6,7 +6,7 @@ Full-stack and a user-experience engineer with an MSc in Software Engineering an
 
 I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfolio) for **print** and for **the web**, and the **happyness** I pursue doing this.  
 
-You can find me on any social media website as [![@housamz](https://img.shields.io/badge/-%40housamz-134584)](https://twitter.com/housamz)
+You can find me on any social media website as [![@housamz](https://img.shields.io/badge/%40-housamz-informational?style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
 
 ### Languages &amp; Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?logo=javascript&style=flat&labelColor=d63e75&logoColor=white&color=134584)
