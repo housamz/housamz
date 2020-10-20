@@ -54,13 +54,11 @@ You can find me on any social media website as [![@housamz](https://img.shields.
     <th>
       <h3>Most Visited Blog Posts</h3>
     </th>
-    <th></th>
     <th>
       <h3>Codepen Pens</h3>
     </th>
   </tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -81,7 +79,6 @@ You can find me on any social media website as [![@housamz](https://img.shields.
         </li>
       </ul>
     </td>
-    <td></td>
     <td style="vertical-align: top;">
       <ul>
         <li>
