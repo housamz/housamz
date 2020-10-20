@@ -49,18 +49,15 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-informational?logo=Adobe-XD&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Sketch](https://img.shields.io/badge/-Sketch-informational?logo=Sketch&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
+### Blog
 <table>
   <tr>
     <th width="500">
-      <h3>Most Visited Blog Posts</h3>
+      Most Visited Blog Posts
     </th>
     <th width="500">
-      <h3>Codepen Pens</h3>
+      Codepen Pens
     </th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
