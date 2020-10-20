@@ -49,21 +49,73 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-informational?logo=Adobe-XD&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Sketch](https://img.shields.io/badge/-Sketch-informational?logo=Sketch&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
-### Most Visited Blog Posts
-* [Markdown Cheatsheet](https://www.hmz.ie/markdown-cheatsheet/)
-* [Using Python to Check if People Like Sequel Movies](https://www.hmz.ie/sequel-movies/)
-* [Doomsday Rule Algorithm](https://www.hmz.ie/doomsday-rule-algorithm/)
-* [What If Your Grandmother Was The User?](https://www.hmz.ie/what-if-your-grandmother-was-the-user/)
+<table>
+  <tr>
+    <th width="500">
+      <h3>Most Visited Blog Posts</h3>
+    </th>
+    <th></th>
+    <th width="500">
+      <h3>Codepen Pens</h3>
+    </th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>
+          <a href="https://www.hmz.ie/markdown-cheatsheet/">Markdown Cheatsheet</a>
+        </li>
+        <li>
+          <a href="https://www.hmz.ie/sequel-movies/">Using Python to Check if People Like Sequel Movies</a>
+        </li>
+        <li>
+          <a href="https://www.hmz.ie/doomsday-rule-algorithm/">Doomsday Rule Algorithm</a>
+        </li>
+        <li>
+          <a href="https://www.hmz.ie/what-if-your-grandmother-was-the-user/">What If Your Grandmother Was The User?</a>
+        </li>
+      </ul>
+    </td>
+    <td></td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>
+          <a href="https://codepen.io/housamz/pen/WNQWMzE">Simplest Tetris Ever</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/abZZxxO">Emojis Keyboard</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/OJNRLGO">1990 Computer Art</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/WNvWxNG">Raffle Draw</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/yLepxZB">Bottomless Lorem Ipsum</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/NWNRPrP">Pixelart Paint</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/XqJZrj">Confused Developer</a>
+        </li>
+        <li>
+          <a href="https://codepen.io/housamz/pen/drrbyj">Animated Placeholders</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Codepen Pens
-* [Simplest Tetris Ever](https://codepen.io/housamz/pen/WNQWMzE)
-* [Emojis Keyboard](https://codepen.io/housamz/pen/abZZxxO)
-* [1990 Computer Art](https://codepen.io/housamz/pen/OJNRLGO)
-* [Raffle Draw](https://codepen.io/housamz/pen/WNvWxNG)
-* [Bottomless Lorem Ipsum](https://codepen.io/housamz/pen/yLepxZB)
-* [Pixelart Paint](https://codepen.io/housamz/pen/NWNRPrP)
-* [Confused Developer](https://codepen.io/housamz/pen/XqJZrj)
-* [Animated Placeholders](https://codepen.io/housamz/pen/drrbyj)
+
+
+
 
 ### Stats
 ![Housamz github stats](https://github-readme-stats.vercel.app/api?username=housamz&line_height=40&hide=prs,contribs&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)
