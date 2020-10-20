@@ -114,10 +114,11 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 
 
 
-### Stats
+### Github Info
 ![Housamz github stats](https://github-readme-stats.vercel.app/api?username=housamz&line_height=40&hide=prs,contribs&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)
 ![Housamz Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Housamz&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)
 
+### Highlighted Projects
 [![PHP MAGE](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=php-mysql-admin-panel-generator&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/php-mysql-admin-panel-generator)
 [![Movie Info Finder](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=movie-info-finder&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/movie-info-finder)
 
