@@ -8,11 +8,14 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 ### Social
 [![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
-[![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=twitter&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
+[![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
-[![Twitter](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
+[![Twitter](https://img.shields.io/badge/-housamz-informational?logo=Twitter&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
 [![Instagram](https://img.shields.io/badge/-housamz-informational?logo=instagram&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://instagram.com/housamz)
-
+[![Reddit](https://img.shields.io/badge/-housamz-informational?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
+<!--
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
+-->
 
 ### Languages &amp; Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?logo=javascript&style=flat&labelColor=d63e75&logoColor=white&color=134584)
