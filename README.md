@@ -6,7 +6,13 @@ Full-stack and a user-experience engineer with an MSc in Software Engineering an
 
 I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfolio) for **print** and for **the web**, and the **happyness** I pursue doing this.  
 
-You can find me on any social media website as [![@housamz](https://img.shields.io/badge/%40-housamz-informational?style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
+### Social
+[![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
+[![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=twitter&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
+[![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
+[![Twitter](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
+[![Instagram](https://img.shields.io/badge/-housamz-informational?logo=instagram&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://instagram.com/housamz)
+
 
 ### Languages &amp; Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?logo=javascript&style=flat&labelColor=d63e75&logoColor=white&color=134584)
@@ -118,6 +124,9 @@ You can find me on any social media website as [![@housamz](https://img.shields.
 ### Highlighted Projects
 [![PHP MAGE](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=php-mysql-admin-panel-generator&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/php-mysql-admin-panel-generator)
 [![Movie Info Finder](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=movie-info-finder&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/movie-info-finder)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=housamz&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
 <!-- Resources
   Icons: https://simpleicons.org/
