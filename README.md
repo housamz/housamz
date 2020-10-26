@@ -6,7 +6,7 @@ Full-stack and a user-experience engineer with an MSc in Software Engineering an
 
 I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfolio) for **print** and for **the web**, and the **happyness** I pursue doing this.  
 
-### Social
+### Social (@housamz)
 [![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
 [![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
