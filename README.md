@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/housamz/housamz/master/header.png "Header")](https://hmz.ie/)
 
-I am Housam, a Principal Software Engineer based in Dublin, Ireland working for Oracle
+I am Housam, a Principal Software Engineer based in Dublin, Ireland.
 
 Full-stack and a user-experience engineer with an MSc in Software Engineering and a Bachelor in Linguistics. I started as a Graphic Designer and a Web Designer in 1998 and started focusing on Web Development in 2008\. Through my years of business experience, I learnt a lot about Business Development, Marketing, Management, Entrepreneurship, and I worked on projects for [big companies](https://www.hmz.ie/whoami/#education).  
 
