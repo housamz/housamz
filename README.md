@@ -77,9 +77,9 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
       
-      <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
       
    [...more ](https://www.hmz.ie)
     </td>
