@@ -66,17 +66,6 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 ---
 
 #### Blog
-<table>
-  <tr>
-    <th width="500">
-      Most Visited Blog Posts
-    </th>
-    <th width="500">
-      Codepen Pens
-    </th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
 <!-- BLOG-POST-LIST:START -->
 - [How to install Apache, PHP and MySQL on Ubuntu 20.04](http://hmz.ie/how-to-install-apache-php-mysql-on-ubuntu/)
 - [What If Your Grandmother Was The User?](http://hmz.ie/what-if-your-grandmother-was-the-user/)
@@ -84,39 +73,15 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 - [Python MAGE MySQL Admin Panel Generator](http://hmz.ie/python-mysql-admin-panel-generator/)
 - [Winning Irish Socksociety Competition](http://hmz.ie/irish-socksociety-contest/)
 <!-- BLOG-POST-LIST:END -->
-      
-   [...more ](https://www.hmz.ie)
-    </td>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>
-          <a href="https://codepen.io/housamz/pen/WNQWMzE">Simplest Tetris Ever</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/abZZxxO">Emojis Keyboard</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/OJNRLGO">1990 Computer Art</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/WNvWxNG">Raffle Draw</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/yLepxZB">Bottomless Lorem Ipsum</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/NWNRPrP">Pixelart Paint</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/XqJZrj">Confused Developer</a>
-        </li>
-        <li>
-          <a href="https://codepen.io/housamz/pen/drrbyj">Animated Placeholders</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+[...more ](https://www.hmz.ie)
+
+#### Codepen Pens
+<!-- CODEPEN-LIST:START -->
+
+<!-- CODEPEN-LIST:END -->
+
+[...more ](https://codepen.io/housamz)
 
 ---
 
