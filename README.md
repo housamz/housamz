@@ -4,9 +4,11 @@ I am Housam, a Principal Software Engineer based in Dublin, Ireland.
 
 Full-stack and a user-experience engineer with an MSc in Software Engineering and a Bachelor in Linguistics. I started as a Graphic Designer and a Web Designer in 1998 and started focusing on Web Development in 2008\. Through my years of business experience, I learnt a lot about Business Development, Marketing, Management, Entrepreneurship, and I worked on projects for [big companies](https://www.hmz.ie/whoami/#education).  
 
-I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfolio) for **print** and for **the web**, and the **happyness** I pursue doing this.  
+I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfolio) for **print** and for **the web**, and the **happyness** I pursue doing this.
 
-### Social (@housamz)
+---
+
+#### Social (@housamz)
 [![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
 [![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
@@ -18,7 +20,9 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
 -->
 
-### Languages &amp; Technologies
+---
+
+#### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?logo=javascript&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?logo=TypeScript&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Python](https://img.shields.io/badge/-Python-informational?logo=python&style=flat&labelColor=d63e75&logoColor=white&color=134584)
@@ -51,7 +55,7 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?logo=MySQL&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?logo=MongoDB&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
-### Design Applications
+##### Design
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-informational?logo=Adobe-Photoshop&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-informational?logo=Adobe-Illustrator&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Adobe Indesign](https://img.shields.io/badge/-Adobe_Indesign-informational?logo=Adobe-Indesign&style=flat&labelColor=d63e75&logoColor=white&color=134584)
@@ -59,7 +63,9 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-informational?logo=Adobe-XD&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Sketch](https://img.shields.io/badge/-Sketch-informational?logo=Sketch&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
-### Blog
+---
+
+#### Blog
 <table>
   <tr>
     <th width="500">
@@ -117,15 +123,13 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
   </tr>
 </table>
 
+---
 
-
-
-
-### Github Info
+#### Github Info
 ![Housamz github stats](https://github-readme-stats.vercel.app/api?username=housamz&line_height=40&hide=prs,contribs&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)
 ![Housamz Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Housamz&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)
 
-### Highlighted Projects
+#### Highlighted Projects
 [![PHP MAGE](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=php-mysql-admin-panel-generator&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/php-mysql-admin-panel-generator)
 [![Movie Info Finder](https://github-readme-stats.vercel.app/api/pin/?username=housamz&repo=movie-info-finder&title_color=ffffff&text_color=ffffff&icon_color=d63e75&bg_color=134584)](https://github.com/housamz/movie-info-finder)
 
