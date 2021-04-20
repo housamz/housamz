@@ -78,7 +78,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Codepen Pens
 <!-- CODEPEN-LIST:START -->
-
+- [JavaScript Donut - ASCII Art](https://codepen.io/housamz/pen/zYNmppq)
+- [Using Emoji Class Names](https://codepen.io/housamz/pen/XWpYKRX)
+- [Space Invaders Scoreboard](https://codepen.io/housamz/pen/WNRoMKW)
+- [console.test()](https://codepen.io/housamz/pen/oNBbjox)
+- [Vue Pen - Pomodoro Timer](https://codepen.io/housamz/pen/NWbzEza)
 <!-- CODEPEN-LIST:END -->
 
 [...more ](https://codepen.io/housamz)
