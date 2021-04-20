@@ -77,20 +77,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <ul>
-        <li>
-          <a href="https://www.hmz.ie/markdown-cheatsheet/">Markdown Cheatsheet</a>
-        </li>
-        <li>
-          <a href="https://www.hmz.ie/sequel-movies/">Using Python to Check if People Like Sequel Movies</a>
-        </li>
-        <li>
-          <a href="https://www.hmz.ie/doomsday-rule-algorithm/">Doomsday Rule Algorithm</a>
-        </li>
-        <li>
-          <a href="https://www.hmz.ie/what-if-your-grandmother-was-the-user/">What If Your Grandmother Was The User?</a>
-        </li>
-      </ul>
+      <!-- BLOG-POST-LIST:START -->
+      
+      <!-- BLOG-POST-LIST:END -->
+      
+   [...more ](https://www.hmz.ie)
     </td>
     <td style="vertical-align: top;">
       <ul>
