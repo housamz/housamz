@@ -34,8 +34,8 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 ![Pug](https://img.shields.io/badge/-Pug-informational?logo=Pug&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?logo=node.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
-![AngularJs](https://img.shields.io/badge/-AngularJs-informational?logo=angularjs&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Angular](https://img.shields.io/badge/-Angular-informational?logo=angular&style=flat&labelColor=d63e75&logoColor=white&color=134584)
+![VueJs](https://img.shields.io/badge/-VueJs-informational?logo=vue.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Express](https://img.shields.io/badge/-Express-informational?logo=Express&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![jQuery](https://img.shields.io/badge/-jQuery-informational?logo=jQuery&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Python Flask](https://img.shields.io/badge/-Flask-informational?logo=Flask&style=flat&labelColor=d63e75&logoColor=white&color=134584)
