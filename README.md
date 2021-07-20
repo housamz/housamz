@@ -14,7 +14,7 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
 [![Twitter](https://img.shields.io/twitter/follow/housamz?logo=Twitter&style=flat&labelColor=d63e75&logoColor=white&color=134584&label=%20)](https://twitter.com/housamz)
 [![Instagram](https://img.shields.io/badge/-housamz-informational?logo=instagram&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://instagram.com/housamz)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584&label=%20)](https://www.reddit.com/user/housamz)
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584&label=)](https://www.reddit.com/user/housamz)
 <!--
 [![Reddit](https://img.shields.io/badge/-housamz-informational?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
