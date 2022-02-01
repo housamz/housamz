@@ -67,11 +67,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
+- [F This Website](http://hmz.ie/f-this-website/)
 - [JavaScript Donut](http://hmz.ie/javascript-donut/)
 - [How to install Apache, PHP and MySQL on Ubuntu 20.04](http://hmz.ie/how-to-install-apache-php-mysql-on-ubuntu/)
 - [What If Your Grandmother Was The User?](http://hmz.ie/what-if-your-grandmother-was-the-user/)
 - [MAGE PHP MySQL Admin Panel Generator](http://hmz.ie/php-mysql-admin-panel-generator/)
-- [Python MAGE MySQL Admin Panel Generator](http://hmz.ie/python-mysql-admin-panel-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
