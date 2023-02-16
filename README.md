@@ -67,11 +67,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
+- [Software Engineering Career Paths [Regulary Updated]](http://hmz.ie/software-engineering-career/)
+- [Install PHP on macOS 12.0 Monterey](http://hmz.ie/install-php-on-monterey/)
+- [What Does &amp;lt; T &amp;gt; Mean in TypeScript?](http://hmz.ie/understanding-t-in-typescript/)
 - [F This Website](http://hmz.ie/f-this-website/)
-- [JavaScript Donut](http://hmz.ie/javascript-donut/)
-- [How to install Apache, PHP and MySQL on Ubuntu 20.04](http://hmz.ie/how-to-install-apache-php-mysql-on-ubuntu/)
-- [What If Your Grandmother Was The User?](http://hmz.ie/what-if-your-grandmother-was-the-user/)
-- [MAGE PHP MySQL Admin Panel Generator](http://hmz.ie/php-mysql-admin-panel-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
