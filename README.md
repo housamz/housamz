@@ -68,10 +68,10 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 #### Blog
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
+- [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](http://hmz.ie/add-multiple-pages-react/)
 - [Software Engineering Career Paths [Regulary Updated]](http://hmz.ie/software-engineering-career/)
 - [Install PHP on macOS 12.0 Monterey](http://hmz.ie/install-php-on-monterey/)
 - [What Does &amp;lt; T &amp;gt; Mean in TypeScript?](http://hmz.ie/understanding-t-in-typescript/)
-- [F This Website](http://hmz.ie/f-this-website/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
