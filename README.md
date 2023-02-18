@@ -67,11 +67,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Declarative vs Procedural Programming - Understanding the Differences](http://hmz.ie/declarative-procedural-programming/)
 - [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
 - [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](http://hmz.ie/add-multiple-pages-react/)
 - [Software Engineering Career Paths [Regulary Updated]](http://hmz.ie/software-engineering-career/)
-- [Install PHP on macOS 12.0 Monterey](http://hmz.ie/install-php-on-monterey/)
-- [What Does &amp;lt; T &amp;gt; Mean in TypeScript?](http://hmz.ie/understanding-t-in-typescript/)
+- [How to Create a Python Virtual Environment on Ubuntu 22.10](http://hmz.ie/python-virtual-environment-ubuntu2210/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
