@@ -33,6 +33,7 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 ![HTML](https://img.shields.io/badge/-HTML-informational?logo=html5&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Pug](https://img.shields.io/badge/-Pug-informational?logo=Pug&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
+![React.js](https://img.shields.io/badge/-React.js-informational?logo=react&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?logo=node.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![Angular](https://img.shields.io/badge/-Angular-informational?logo=angular&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 ![VueJs](https://img.shields.io/badge/-VueJs-informational?logo=vue.js&style=flat&labelColor=d63e75&logoColor=white&color=134584)
