@@ -68,11 +68,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Umm Kulthum Encyclopedia - موسوعة أم كلثوم](http://hmz.ie/umm-kulthum-encyclopedia/)
 - [Declarative vs Procedural Programming - Understanding the Differences](http://hmz.ie/declarative-procedural-programming/)
 - [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
 - [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](http://hmz.ie/add-multiple-pages-react/)
 - [Software Engineering Career Paths [Regulary Updated]](http://hmz.ie/software-engineering-career/)
-- [How to Create a Python Virtual Environment on Ubuntu 22.10](http://hmz.ie/python-virtual-environment-ubuntu2210/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
