@@ -68,11 +68,11 @@ I am passionate about creating [**beautiful** designs](https://www.hmz.ie/portfo
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Essential JavaScript Concepts](http://hmz.ie/exploring-essential-javascript-concepts/)
 - [Umm Kulthum Encyclopedia - موسوعة أم كلثوم](http://hmz.ie/umm-kulthum-encyclopedia/)
 - [Declarative vs Procedural Programming - Understanding the Differences](http://hmz.ie/declarative-procedural-programming/)
 - [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
 - [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](http://hmz.ie/add-multiple-pages-react/)
-- [Software Engineering Career Paths [Regulary Updated]](http://hmz.ie/software-engineering-career/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
