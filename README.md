@@ -73,11 +73,11 @@ Whether it's for print or the web, I'm on a quest for happyness, one pixel at a 
 
 #### Blog
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Essential JavaScript Concepts](http://hmz.ie/exploring-essential-javascript-concepts/)
-- [Umm Kulthum Encyclopedia - موسوعة أم كلثوم](http://hmz.ie/umm-kulthum-encyclopedia/)
-- [Declarative vs Procedural Programming - Understanding the Differences](http://hmz.ie/declarative-procedural-programming/)
-- [Introduction to React Testing Library](http://hmz.ie/intro-to-react-testing-library/)
-- [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](http://hmz.ie/add-multiple-pages-react/)
+- [Exploring Essential JavaScript Concepts](https://hmz.ie/exploring-essential-javascript-concepts/)
+- [Umm Kulthum Encyclopedia - موسوعة أم كلثوم](https://hmz.ie/umm-kulthum-encyclopedia/)
+- [Declarative vs Procedural Programming - Understanding the Differences](https://hmz.ie/declarative-procedural-programming/)
+- [Introduction to React Testing Library](https://hmz.ie/intro-to-react-testing-library/)
+- [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](https://hmz.ie/add-multiple-pages-react/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
