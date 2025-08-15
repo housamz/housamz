@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/housamz/housamz/master/header.png "Header")](https://hmz.ie/)
-
 I'm a Software Engineer by day, a lecturer by night, and an electronics hobbyist in between – basically, I'm a 24/7 nerd.
 
 My journey into the tech world started back in '98 when I was just a wide-eyed Web Designer, but let's be honest, who wasn't in '98? Fast forward to 2008, and I made the genius decision to dive headfirst into Web Development. 
@@ -15,13 +13,14 @@ Whether it's for print or the web, I'm on a quest for happyness, one pixel at a 
 
 #### Social (@housamz)
 [![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
-[![Linkedin](https://img.shields.io/badge/-housamz-informational?logo=LinkedIn&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
+[![LinkedIn](https://img.shields.io/badge/-housamz-informational?logo=linkedin&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
-[![Twitter](https://img.shields.io/twitter/follow/housamz?logo=Twitter&style=flat&labelColor=d63e75&logoColor=white&color=134584&label=%20)](https://twitter.com/housamz)
+[![Twitter](https://img.shields.io/badge/-housamz-1DA1F2?logo=X&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
 [![Instagram](https://img.shields.io/badge/-housamz-informational?logo=instagram&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://instagram.com/housamz)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584&label=)](https://www.reddit.com/user/housamz)
-<!--
 [![Reddit](https://img.shields.io/badge/-housamz-informational?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
+
+<!--
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/housamz?logo=Reddit&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.reddit.com/user/housamz)
 -->
 
