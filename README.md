@@ -13,7 +13,7 @@ Whether it's for print or the web, I'm on a quest for happyness, one pixel at a 
 
 #### Social (@housamz)
 [![ORCID](https://img.shields.io/badge/-0000--0001--6132--4082-Informational?logo=orcid&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://orcid.org/0000-0001-6132-4082)
-[![LinkedIn](https://img.shields.io/badge/-housamz-informational?logo=linkedin&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
+[![LinkedIn](https://img.shields.io/badge/-housamz-informational?logo=inspire&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://www.linkedin.com/in/housamz)
 [![Codepen](https://img.shields.io/badge/-housamz-informational?logo=codepen&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://codepen.io/housamz)
 [![Twitter](https://img.shields.io/badge/-housamz-1DA1F2?logo=X&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://twitter.com/housamz)
 [![Instagram](https://img.shields.io/badge/-housamz-informational?logo=instagram&style=flat&labelColor=d63e75&logoColor=white&color=134584)](https://instagram.com/housamz)
