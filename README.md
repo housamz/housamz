@@ -105,24 +105,5 @@ Whether it's for print or the web, I'm on a quest for happyness, one pixel at a 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=housamz&style=flat&labelColor=d63e75&logoColor=white&color=134584)
 
-<!-- Resources
-  Icons: https://simpleicons.org/
-  GitHub Stats: https://github.com/anuraghazra/github-readme-stats
-  Emojis: https://emojipedia.org/emoji/
-  HTML Emojis: https://www.fileformat.info/index.htm
-  Shields: https://shields.io/
-  Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme
-
-**housamz/housamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
