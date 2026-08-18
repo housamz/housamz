@@ -74,9 +74,9 @@ Whether it's for print or the web, I'm on a quest for happyness, one pixel at a 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Essential JavaScript Concepts](https://hmz.ie/exploring-essential-javascript-concepts/)
 - [Umm Kulthum Encyclopedia - موسوعة أم كلثوم](https://hmz.ie/umm-kulthum-encyclopedia/)
+- [FAQ: Everything You Need to Know About Peace Commissioners in Ireland](https://hmz.ie/peace-commissioner-faq/)
 - [Declarative vs Procedural Programming](https://hmz.ie/declarative-procedural-programming/)
 - [Introduction to React Testing Library](https://hmz.ie/intro-to-react-testing-library/)
-- [How To Add Multiple Pages in React &lpar;2023 Tutorial&rpar;](https://hmz.ie/add-multiple-pages-react/)
 <!-- BLOG-POST-LIST:END -->
 
 [...more ](https://www.hmz.ie)
